@@ -1,1 +1,5 @@
 print("my first program for github") 
+print("this is the second line")
+print("this is the thrid line")
+print("this is the fourth line")
+print("this is the fifth line")
